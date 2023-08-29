@@ -2,7 +2,7 @@ Form Project with React.js
 
 "Formik ve Yup Entegrasyonuyla Geliştirilmiş Profesyonel Form Uygulaması 📝✨
 
-Bu repository, modern ve etkili form yönetimi için Formik kütüphanesini kullanarak geliştirilmiş bir form uygulamasını içerir. Ayrıca, girdi doğrulamalarını kolaylaştırmak ve yönetmek için Yup şema doğrulama kütüphanesini entegre ettik.
+Bu repository, modern ve etkili form yönetimi için Formik kütüphanesini kullanarak geliştirilmiş bir form uygulamasını içerir. Ayrıca, girdi doğrulamalarını kolaylaştırmak ve yönetmek için Yup şema doğrulama kütüphanesini entegre ettim.
 
 🚀 Başlıca Özellikler:
 
