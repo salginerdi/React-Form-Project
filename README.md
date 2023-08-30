@@ -1,15 +1,18 @@
 Form Project with React.js
 
-"Formik ve Yup Entegrasyonuyla Geliştirilmiş Profesyonel Form Uygulaması 📝✨
+"Formik ve Yup Entegrasyonuyla Geliştirilmiş Form Uygulaması Örneği 📝✨
 
 Bu repository, modern ve etkili form yönetimi için Formik kütüphanesini kullanarak geliştirilmiş bir form uygulamasını içerir. Ayrıca, girdi doğrulamalarını kolaylaştırmak ve yönetmek için Yup şema doğrulama kütüphanesini entegre ettim.
 
 🚀 Başlıca Özellikler:
 
-Formik ile gelişmiş form yönetimi ve durum takibi. Yup ile sağlam veri doğrulama ve girdi kontrolü. Kullanıcı dostu arayüz ve etkileyici kullanıcı deneyimi. Özelleştirilebilir bileşenler ve stiller ile esnek tasarım. Hızlı entegrasyon için detaylı belgeler ve örnekler. 🔧 Kurulum ve Kullanım:
+Formik ile gelişmiş form yönetimi. Yup ile sağlam veri doğrulama ve girdi kontrolü. Kullanıcı dostu arayüz.  Özelleştirilebilir bileşenler ve stiller ile esnek tasarım. 
 
-Repository'yi klonlayın ve projeyi yerel makinenizde çalıştırın. Gerekli bağımlılıkları yüklemek için npm install komutunu kullanın. Örnek form şemalarını ve bileşenlerini inceleyerek hızlıca adapte olun. Formu projenize özelleştirerek entegre edin ve geliştirmeye başlayın. 🌐 Daha Fazlası: Bu proje, form yönetiminin en iyi uygulamalarını sergilemek amacıyla oluşturulmuştur. Eğer siz de Formik ve Yup'ı kullanarak form yönetimi konusundaki yeteneklerinizi geliştirmek isterseniz, bu repoyu kullanmaktan çekinmeyin.
+🔧 Kurulum ve Kullanım:
 
-🙌 Katkı ve Geri Bildirim: Her türlü geri bildirimi kabul ediyoruz. Eğer projeye katkı sağlamak isterseniz, 'fork' yaparak kendi dallarınızda geliştirmeler yapabilir ve ardından 'pull request' oluşturabilirsiniz.
+Repository'yi klonlayın ve projeyi yerel makinenizde çalıştırın. Gerekli bağımlılıkları yüklemek için npm install komutunu kullanın. Örnek form şemalarını ve bileşenlerini inceleyerek hızlıca adapte olun. Formu projenize özelleştirerek entegre edin ve geliştirmeye başlayın. 
+🌐 Daha Fazlası: Bu proje, form yönetiminin bir örneğini göstermek amacıyla oluşturulmuştur. Eğer siz de Formik ve Yup'ı kullanarak form yönetimi konusundaki yeteneklerinizi geliştirmek isterseniz, bu repoyu kullanmaktan çekinmeyin.
 
-Teşekkürler, sizin gibi geliştiricilerle bir arada çalışmak ve öğrenmek için sabırsızlanıyorum! 💡👩‍💻"
+🙌 Katkı ve Geri Bildirim: Her türlü geri bildirimi kabul ediyorum. Eğer projeye katkı sağlamak isterseniz, 'fork' yaparak kendi dallarınızda geliştirmeler yapabilir ve ardından 'pull request' oluşturabilirsiniz.
+
+Proje ile ilgili görsel anlatıma şuradan ulaşabilirsiniz: https://www.linkedin.com/posts/erdisalgin_react-reactjs-formik-activity-7099425294784081921-mFdk?utm_source=share&utm_medium=member_desktop
